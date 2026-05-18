@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+synthetic_cst_s21.txt
+synthetic_fit.png
